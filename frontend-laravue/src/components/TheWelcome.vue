@@ -68,6 +68,6 @@ import SupportIcon from './icons/IconSupport.vue'
 
     Link Repository untuk project ini :
 
-    <a target="_blank" href="https://vuejs.org/sponsor/">CRUD Laravel 8 & Vue 3 </a>.
+    <a target="_blank" href="https://github.com/FthRobby/crud-laravue">CRUD Laravel 8 & Vue 3 </a>.
   </WelcomeItem>
 </template>

@@ -5,9 +5,9 @@
         <figure><img src="../assets/about.png" alt="About Me" /></figure>
           <div class="card-body">
             <h2 class="card-title">Tentang Aplikasi</h2>
-            <p class="mt-8">Aplikasi ini merupakan hasil pembelajaran saya mengenai framework Vue.js dan Laravel. Saya belajar mengimplementasikan bagaimana sebuah cara membuat API menggunakan Laravel dan kemudian data API tersebut saya implementasikan menggunakan Vue.js.</p>
+            <p class="mt-8">Aplikasi ini merupakan hasil pembelajaran saya mengenai framework Vue.js dan Laravel. Saya belajar mengimplementasikan bagaimana cara membuat API menggunakan Laravel dan kemudian data API tersebut saya implementasikan menggunakan Vue.js.</p>
             <div class="card-title justify-end">
-              <a target="_blank" href="https://github.com/fthrobby">
+              <a target="_blank" href="https://github.com/FthRobby/crud-laravue">
                 <button class="btn btn-md"><i class="fa fa-github text-xl mr-1"></i>Repo</button>
               </a>
             </div>

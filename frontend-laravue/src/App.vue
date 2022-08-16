@@ -12,7 +12,7 @@ import HelloWorld from './components/HelloWorld.vue'
 
       <nav class="flex justify-center items-center text-center mt-10">
         <RouterLink to="/" >Home</RouterLink>
-        <RouterLink to="/post">Simple Crud App</RouterLink>
+        <RouterLink class="text-error" to="/post">Simple Crud App</RouterLink>
         <RouterLink to="/about">About</RouterLink>
       </nav>
     </div>
